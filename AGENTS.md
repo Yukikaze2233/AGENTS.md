@@ -340,6 +340,7 @@ Code 模式中的基本要求：
 
 - 解释、讨论、分析、总结：用中文。
 - 所有代码、注释、标识符、commit message、Markdown 代码块内容：必须是 English，不要出现中文。
+- commit message 中禁止出现 Co-authored-by 或其他协作者标记（如 Sisyphus-ai、Claude、OpenCode 等 AI 标识），所有 commit 的 author/committer 必须是 Yukikaze 本人。
 - 对你生成的 Markdown 文档，正文默认也用 English，除非用户明确要求别的语言。
 - 给我看的要用英文
 补充说明：
